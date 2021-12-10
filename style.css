@@ -176,3 +176,4 @@
   .btn1:hover::after{  
     transform: scaleX(1.01) translateY(-15px);  
   } 
+  
